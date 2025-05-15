@@ -1,0 +1,38 @@
+.hero {
+  transition: 1s;
+  padding: 50px;
+}
+
+.box {
+  width: 95%;
+  height: 812px;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 0px 10px 60px 0px #e2ecf980;
+  padding: 40px;
+}
+
+.box table {
+  width: 95%;
+  border-collapse: collapse;
+}
+.tr {
+  /* padding: 35px; */
+  height: 60px;
+  text-align: center;
+  color: black;
+  border-bottom: 1px solid rgb(201, 201, 201);
+}
+
+.tr-btn {
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 100%;
+  letter-spacing: -1%;
+  color: #008767;
+  padding: 4px 18px;
+  background: #16c09861;
+  border: 1px solid #00b087;
+  border-radius: 4px;
+}
